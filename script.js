@@ -1,7 +1,6 @@
-const textarea = document.getElementById("textInput");
-const charCount = document.getElementById("charCount");
+const textarea = document.getElementById('text-input');
+const charCount = document.getElementById('char-count');
 
-textarea.addEventListener("input", () => {
-  const remaining = 100 - textarea.value.length;
-  charCount.textContent = remaining;
+textarea.addEventListener('input', () => {
+  charCount.textContent = textarea.value.length;
 });
