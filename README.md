@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Initialisation
 git init
 git add .
@@ -30,9 +30,6 @@ git commit -m"Add instructional note below counter"
 status
 git push origin feature/add-content
 
-
-
-=======
 ### Initialisation
 git init
 git add .
