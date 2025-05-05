@@ -6,7 +6,7 @@ git commit -m"commit"
 git remote add origin https://github.com/VinaykumarMinfy/GitMediumAssignment.git
 git push origin master
 
-### Create branch feature/update-styling
+### Creating branch feature/update-styling
 git switch -b feature/update-styling
 git add .
 git commit -m"update styling:background and textarea boarder"
@@ -23,7 +23,7 @@ To https://github.com/VinaykumarMinfy/GitMediumAssignment.git
    
 git switch master
 
- ### Create branch feature/add-content
+ ### Creating branch feature/add-content
  git switch -b feature/add-content
 git add .
 git commit -m"Add instructional note below counter"
