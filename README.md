@@ -30,4 +30,16 @@ status
 git push origin feature/add-content
 
 ### Screenshots showing the merge conflict and resolution process
-###
+### Update-styling conflict after resolved
+![update-styling conflit resolved](https://github.com/user-attachments/assets/fe3c76d2-80cc-4fa0-9c0a-90d44d1ef33f)
+### Update-styling Merged
+![Update-styling Merged](https://github.com/user-attachments/assets/2c87e07c-c3a2-4ee9-a8e7-5931b9114ac1)
+### add-content conflict after resolved
+![add-content conflit resolved](https://github.com/user-attachments/assets/2c06e291-2398-4d23-87ff-c73b7e6bbe14)
+### add-content Merged
+![add-content merged](https://github.com/user-attachments/assets/1273d565-957e-412b-9b5e-8730709085f3)
+
+
+
+
+
